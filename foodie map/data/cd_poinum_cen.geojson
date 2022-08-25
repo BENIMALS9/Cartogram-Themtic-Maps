@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "cd_poinum_cen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "cluster_ID": 26.0, "lng84": 104.3089759561685, "lat84": 30.589213064003925, "poi_num": 4, "square_r": 0.012 }, "geometry": { "type": "Point", "coordinates": [ 104.308975956168496, 30.589213064003925 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 1.0, "lng84": 104.01340675097775, "lat84": 30.681952382366749, "poi_num": 4, "square_r": 0.012 }, "geometry": { "type": "Point", "coordinates": [ 104.013406750977751, 30.681952382366749 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 2.0, "lng84": 104.0181936036815, "lat84": 30.711635709397726, "poi_num": 4, "square_r": 0.012 }, "geometry": { "type": "Point", "coordinates": [ 104.018193603681496, 30.711635709397726 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 3.0, "lng84": 104.0927541410705, "lat84": 30.756507280117745, "poi_num": 4, "square_r": 0.012 }, "geometry": { "type": "Point", "coordinates": [ 104.0927541410705, 30.756507280117745 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 4.0, "lng84": 104.02091592640824, "lat84": 30.799815122252348, "poi_num": 4, "square_r": 0.012 }, "geometry": { "type": "Point", "coordinates": [ 104.020915926408236, 30.799815122252348 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 7.0, "lng84": 104.10381244258275, "lat84": 30.656780419555925, "poi_num": 4, "square_r": 0.012 }, "geometry": { "type": "Point", "coordinates": [ 104.10381244258275, 30.656780419555925 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 11.0, "lng84": 104.23049575785949, "lat84": 30.636422710980526, "poi_num": 10, "square_r": 0.03 }, "geometry": { "type": "Point", "coordinates": [ 104.230495757859487, 30.636422710980526 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 12.0, "lng84": 103.87462032710874, "lat84": 30.441225603121126, "poi_num": 4, "square_r": 0.012 }, "geometry": { "type": "Point", "coordinates": [ 103.874620327108744, 30.441225603121126 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 15.0, "lng84": 104.02255323787651, "lat84": 30.543232212640174, "poi_num": 4, "square_r": 0.012 }, "geometry": { "type": "Point", "coordinates": [ 104.022553237876508, 30.543232212640174 ] } }
+]
+}

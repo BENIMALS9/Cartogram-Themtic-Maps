@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "cq_poinum_cen",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "cluster_ID": 13.0, "lng84": 106.96721818076266, "lat84": 29.585524279665702, "poi_num": 3, "square_r": 0.018 }, "geometry": { "type": "Point", "coordinates": [ 106.967218180762657, 29.585524279665702 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 7.0, "lng84": 106.31349930362967, "lat84": 29.565273962235835, "poi_num": 3, "square_r": 0.018 }, "geometry": { "type": "Point", "coordinates": [ 106.313499303629669, 29.565273962235835 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 2.0, "lng84": 106.35282615140632, "lat84": 29.408833921161801, "poi_num": 3, "square_r": 0.018 }, "geometry": { "type": "Point", "coordinates": [ 106.352826151406319, 29.408833921161801 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 1.0, "lng84": 106.41227529535065, "lat84": 29.406577113366968, "poi_num": 3, "square_r": 0.018 }, "geometry": { "type": "Point", "coordinates": [ 106.412275295350653, 29.406577113366968 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 3.0, "lng84": 106.82050131871449, "lat84": 29.506833908748725, "poi_num": 4, "square_r": 0.024 }, "geometry": { "type": "Point", "coordinates": [ 106.820501318714491, 29.506833908748725 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 4.0, "lng84": 106.94970324870633, "lat84": 29.550341594210298, "poi_num": 3, "square_r": 0.018 }, "geometry": { "type": "Point", "coordinates": [ 106.949703248706328, 29.550341594210298 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 5.0, "lng84": 106.86399110612034, "lat84": 29.501075746961401, "poi_num": 3, "square_r": 0.018 }, "geometry": { "type": "Point", "coordinates": [ 106.863991106120338, 29.501075746961401 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 6.0, "lng84": 106.74379097927576, "lat84": 29.273590041330397, "poi_num": 4, "square_r": 0.024 }, "geometry": { "type": "Point", "coordinates": [ 106.743790979275758, 29.273590041330397 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 8.0, "lng84": 106.53412153224599, "lat84": 29.589792927931615, "poi_num": 6, "square_r": 0.036 }, "geometry": { "type": "Point", "coordinates": [ 106.53412153224599, 29.589792927931615 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 9.0, "lng84": 106.32191983600701, "lat84": 29.230589217415137, "poi_num": 5, "square_r": 0.03 }, "geometry": { "type": "Point", "coordinates": [ 106.321919836007012, 29.230589217415137 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 10.0, "lng84": 106.3441611734584, "lat84": 29.167643066928417, "poi_num": 5, "square_r": 0.03 }, "geometry": { "type": "Point", "coordinates": [ 106.344161173458403, 29.167643066928417 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 11.0, "lng84": 106.62323489432566, "lat84": 29.885615243083233, "poi_num": 3, "square_r": 0.018 }, "geometry": { "type": "Point", "coordinates": [ 106.623234894325662, 29.885615243083233 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 12.0, "lng84": 106.84319410408879, "lat84": 29.792913496262042, "poi_num": 5, "square_r": 0.03 }, "geometry": { "type": "Point", "coordinates": [ 106.843194104088795, 29.792913496262042 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 14.0, "lng84": 106.06779277894151, "lat84": 29.488227081986949, "poi_num": 6, "square_r": 0.036 }, "geometry": { "type": "Point", "coordinates": [ 106.067792778941509, 29.488227081986949 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 15.0, "lng84": 106.454197471214, "lat84": 29.176427026822601, "poi_num": 4, "square_r": 0.024 }, "geometry": { "type": "Point", "coordinates": [ 106.454197471214002, 29.176427026822601 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 16.0, "lng84": 106.40452519657067, "lat84": 29.938172027798601, "poi_num": 3, "square_r": 0.018 }, "geometry": { "type": "Point", "coordinates": [ 106.404525196570674, 29.938172027798601 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 17.0, "lng84": 105.86605378746899, "lat84": 29.592200410620549, "poi_num": 4, "square_r": 0.024 }, "geometry": { "type": "Point", "coordinates": [ 105.866053787468985, 29.592200410620549 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 18.0, "lng84": 105.982764762996, "lat84": 29.359731827521831, "poi_num": 3, "square_r": 0.018 }, "geometry": { "type": "Point", "coordinates": [ 105.982764762995998, 29.359731827521831 ] } },
+{ "type": "Feature", "properties": { "cluster_ID": 19.0, "lng84": 106.200634742891, "lat84": 29.910917912917835, "poi_num": 3, "square_r": 0.018 }, "geometry": { "type": "Point", "coordinates": [ 106.200634742890998, 29.910917912917835 ] } }
+]
+}

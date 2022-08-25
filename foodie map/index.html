@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>城市美食地图</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <div id='desktop-1' class='desktop-1'>
+        <div id='topnav' class='topnav'>
+            <div id='美食地图' class='美食地图'>
+                美食地图
+            </div>
+            <div id='deliciousfoodmap' class='deliciousfoodmap'>
+                DELICIOUS FOOD MAP
+            </div>
+            <div id='line1' class='line1'>
+            </div>
+            <div id='rectangle2' class='rectangle2'>
+            </div>
+            <div id='rectangle3' class='rectangle3'>
+            </div>
+            <div id='rectangle4' class='rectangle4'>
+            </div>
+            <div id='rectangle5' class='rectangle5'>
+            </div>
+            <div id='rectangle6' class='rectangle6'>
+            </div>
+            <div id='aboutus' class='aboutus'>
+                ABOUT US</div>
+        </div>
+
+
+        <div id='searchrec' class='searchrec'>
+        </div>
+        <button class="search">
+            <img class="image1" src='images/搜索.png' />
+        </button>
+
+
+        <div id='leftnav' class='leftnav'>
+
+            <div id='rec1' class='rec1'></div>
+            <button class='city'>
+                <div class="text1">城市</div>
+            </button>
+            <button class='food'>
+                <div class="text1">美食</div>
+            </button>
+            <div id='line2' class='line2'></div>
+            
+            <div class='select_section'>
+                <img id='a1' class='a1' src="images/广州.png" onclick='switch_City("gz")' /></img>
+                <div id='text' class='text'>
+                    广州</div>
+            </div>
+
+            <div class='select_section'>
+                <img id='a1' class='a1' src="images/武汉.png" onclick='switch_City("wh")'/></img>
+                <div id='text' class='text'>
+                    武汉</div>
+            </div>
+
+            <div class='select_section'>
+                <img id='a1' class='a1' src="images/成都.png" onclick='switch_City("cd")'/></img>
+                <div id='text' class='text'>
+                    成都</div>
+            </div>
+
+            <div class='select_section'>
+                <img id='a1' class='a1' src="images/重庆.png" onclick='switch_City("cq")'/></img>
+                <div id='text' class='text'>
+                    重庆</div>
+            </div>
+
+            
+            
+            <button id='清空' class='清空'>
+                清空</button>
+            <button id='确定' class='确定'>
+                确定</button>
+            </img>
+        </div>
+
+        <div id='rightmap' class='rightmap'>
+
+        </div>
+
+    </div>
+    <script>
+        window.devicePixelRatio = 2;
+    </script>
+    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.js"></script>
+    <script type="text/javascript" src="js/echarts.min.js" ></script>
+    <script type="text/javascript" src="js/cartogram.js" ></script>
+    <script type="text/javascript" src="js/map_color.js" ></script>
+    <script type="text/javascript" src="js/map.js"></script>
+
+</body>
+
+</html>
