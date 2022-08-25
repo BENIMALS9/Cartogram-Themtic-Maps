@@ -1,0 +1,269 @@
+.desktop-1 {
+    width: 99%;
+    height: 99%;
+    padding: 0px;
+    background-color: #ffffff;
+    position: absolute;
+}
+
+.topnav {
+    width: 100%;
+    height: 104px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.美食地图 {
+    /* text-align:left; */
+    vertical-align: text-top;
+    font-size: 40px;
+    line-height: auto;
+    color: #000000;
+    left: 30px;
+    top: 30px;
+    position: absolute;
+}
+
+.deliciousfoodmap {
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 40px;
+    line-height: auto;
+    color: #000000;
+    left: 220px;
+    top: 30px;
+    position: absolute;
+}
+
+.line1 {
+    transform: rotate(-90deg);
+    width: 71px;
+    border: 1px solid #000000;
+    top: 52px;
+    left: 700px;
+    position: absolute;
+}
+
+.rectangle2 {
+    width: 62px;
+    height: 58px;
+    background-color: #fb5e5e;
+    top: 23px;
+    left: 800px;
+    position: absolute;
+}
+
+.rectangle3 {
+    width: 62px;
+    height: 58px;
+    background-color: #74debe;
+    top: 23px;
+    left: 900px;
+    position: absolute;
+}
+
+.rectangle4 {
+    width: 62px;
+    height: 58px;
+    background-color: #639bef;
+    top: 23px;
+    left: 1000px;
+    position: absolute;
+}
+
+.rectangle5 {
+    width: 62px;
+    height: 58px;
+    background-color: #fbba59;
+    top: 23px;
+    left: 1100px;
+    position: absolute;
+}
+
+.rectangle6 {
+    width: 62px;
+    height: 58px;
+    background-color: #e78ce9;
+    top: 23px;
+    left: 1200px;
+    position: absolute;
+}
+
+.aboutus {
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 40px;
+    font-family: Port Lligat Sans;
+    left: 1400px;
+    top: 34px;
+    width: 250px;
+    height: 36px;
+    position: absolute;
+    line-height: auto;
+    color: #000000;
+}
+
+.leftnav {
+    width: 306px;
+    height: 706px;
+    background-color: #ffffff;
+    border: 0px solid #000000;
+    top: 212px;
+    left: 38px;
+    position: absolute;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+}
+
+.rightmap {
+    width: 1310px;
+    height: 780px;
+    background-color: #ffffff;
+    border: 0px solid #000000;
+    top: 138px;
+    left: 380px;
+    position: absolute;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+}
+
+
+.a1 {
+    width: 62px;
+    height: 60px;
+    left: 35px;
+    top: 80px;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.select_section{
+    margin-bottom: 20px;
+}
+
+.text {
+    text-align: left;
+    vertical-align: text-top;
+    font-size: 24px;
+    font-family: PT Sans Narrow;
+    left: 140px;
+    top:-10px;
+    width: 115px;
+    height: 26px;
+    position: relative;
+    line-height: auto;
+    color: #000000;
+}
+
+.rectangle11 {
+    width: 326px;
+    height: 518px;
+    background-color: #ffffff;
+    border: 3px solid #639bef;
+    top: 122px;
+    left: 1560px;
+    position: absolute;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.searchrec {
+    width: 308px;
+    height: 54px;
+    background-color: #ffffff;
+    border: 0px solid #000000;
+    top: 138px;
+    left: 36px;
+    position: absolute;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.search {
+    width: 50px;
+    height: 50px;
+    left: 281px;
+    top: 142px;
+    position: absolute;
+    text-align: left;
+}
+
+.image1 {
+    width: 40px;
+    height: 40px;
+}
+
+.rec1 {
+    width: 148px;
+    height: 54px;
+    background-color: #ffffff;
+    top: 212px;
+    left: 38px;
+    position: absolute;
+}
+
+.line2 {
+    width: 304px;
+    border: 1px solid #000000;
+    top: 53px;
+    left: 0px;
+    position: absolute;
+}
+
+.city {
+    top: 0px;
+    width: 50%;
+    height: 54px;
+    position: absolute;
+    border-top: #000000;
+    border-bottom: #000000;
+    border-left:#000000;
+    background-color:white;
+}
+
+.text1{
+    text-align: center;
+    vertical-align: text-top;
+    font-size: 24px;
+    font-family: Poppins;
+}
+
+.food {
+    left: 50%;
+    top: 0px;
+    width: 50%;
+    height: 54px;
+    position: absolute;
+    border:none;
+    background-color: white;
+}
+
+.清空 {
+    background-color: #639bef;
+    text-align: left;
+    vertical-align: text-top;
+    text-align: center;
+    font-size: 20px;
+    font-family: PT Sans Narrow;
+    left: 40px;
+    top: 640px;
+    width: 91px;
+    height: 40px;
+    position: absolute;
+    line-height: auto;
+    color: #000000;
+    border: none;
+}
+
+.确定 {
+    background-color: #639bef;
+    text-align: left;
+    vertical-align: text-top;
+    text-align: center;
+    font-size: 20px;
+    font-family: PT Sans Narrow;
+    left: 180px;
+    top: 640px;
+    width: 91px;
+    height: 40px;
+    position: absolute;
+    line-height: auto;
+    color: #000000;
+    border: none;
+}
